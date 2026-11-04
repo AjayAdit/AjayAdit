@@ -1,6 +1,6 @@
 # Hi, I'm Ajay Adit J 👋
 
-MS Robotics student in Worcester. Previously a Robotics Software Engineer in Delhi.
+MS Robotics student in Worcester. Previously a Robotics Software Engineer.
 
 I work on drone control and perception with ROS 2.
 
