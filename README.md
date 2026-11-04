@@ -1,6 +1,8 @@
 # Hi, I'm Ajay Adit J 👋
 
-Robotics engineer in Delhi. I work on drone control and perception with ROS 2.
+MS Robotics student in Worcester. Previously a Robotics Software Engineer in Delhi.
+
+I work on drone control and perception with ROS 2.
 
 **Stack:** Python · C++ · ROS 2 · MuJoCo · acados · PyTorch
 
